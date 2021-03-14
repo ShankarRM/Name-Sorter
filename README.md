@@ -48,5 +48,6 @@ We will execute your submission against a list with a thousand names.
 ##### To Run the Project
 ```
 .\build.ps1 (Windows)
+
 dotnet run --project .\NameSorter\NameSorter.csproj (MAC or Linux)
 ```
