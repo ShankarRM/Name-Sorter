@@ -19,7 +19,6 @@ namespace NameSorter
             string nameSeprator = Configuration.GetValue<string>("nameSeprator");
 
             var names = Helper.ReadAllText(unsortedFile);
-            Console.WriteLine(names);
             var person = new Person();
             if (names!=null)
             {
