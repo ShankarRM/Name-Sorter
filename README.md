@@ -47,5 +47,6 @@ We will execute your submission against a list with a thousand names.
 • It should write/overwrite the sorted list of names to a file called sorted-names-list.txt.
 ##### To Run the Project
 ```
-.\build.ps1
+.\build.ps1 (Windows)
+dotnet run --project .\NameSorter\NameSorter.csproj (MAC or Linux)
 ```
