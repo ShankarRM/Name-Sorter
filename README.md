@@ -49,10 +49,11 @@ We will execute your submission against a list with a thousand names.
 ###### (Windows)
 ```
 .\build.ps1 
-cd Name-Sorter
+
 ```
 ###### (MAC or Linux)
 ```
+cd Name-Sorter
 dotnet restore
 dotnet build
 dotnet test
