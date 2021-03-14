@@ -45,4 +45,7 @@ We will execute your submission against a list with a thousand names.
 • The names should be sorted correctly.\
 • It should print the sorted list of names to screen.\
 • It should write/overwrite the sorted list of names to a file called sorted-names-list.txt.
-
+##### To Run the Project
+```
+.\build.ps1
+```
